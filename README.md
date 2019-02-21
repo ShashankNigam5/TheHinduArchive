@@ -1,2 +1,2 @@
 # TheHinduArchive
-This Repository is created to get Archive data from The Hindu.
+Till now, I have completed the Scrapping part. I am using JSOUP for scrapping. So we need JSOUP jar file.
