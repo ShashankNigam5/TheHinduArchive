@@ -9,7 +9,6 @@ import org.jsoup.select.Elements;
 public class Scapper {
 
 	public static void main(String[] args) throws IOException {
-		// TODO Auto-generated method stub
 
 		Scapper theHinduScapper = new Scapper();
 
